@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-TristanKrass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushanthkurdekar//)](https://www.linkedin.com/in/sushanthkurdekar/)
+[![Linkedin Badge](https://img.shields.io/badge/-sushanthkurdekar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushanthkurdekar//)](https://www.linkedin.com/in/sushanthkurdekar/)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=iamsushanth&show_icons=true&count_private=true&hide_title=true)
 <!--
